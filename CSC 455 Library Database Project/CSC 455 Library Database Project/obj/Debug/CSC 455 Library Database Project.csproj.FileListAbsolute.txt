@@ -1,0 +1,27 @@
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\App.g.cs
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\CSC 455 Library Database Project_MarkupCompile.cache
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\CSC 455 Library Database Project_MarkupCompile.lref
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\bin\Debug\CSC 455 Library Database Project.exe.config
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\bin\Debug\CSC 455 Library Database Project.exe
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\bin\Debug\CSC 455 Library Database Project.pdb
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\CSC 455 Library Database Project.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\CSC 455 Library Database Project.g.resources
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\CSC_455_Library_Database_Project.Properties.Resources.resources
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\CSC 455 Library Database Project.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\CSC 455 Library Database Project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\CSC 455 Library Database Project.exe
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\CSC 455 Library Database Project.pdb
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\Pages\AdminLoginPage.g.cs
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\Pages\PatronPage.g.cs
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\Pages\AdminLoginPage.baml
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\Pages\LoginPage.baml
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\Pages\PatronPage.baml
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\Pages\PayFinePage.g.cs
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\Pages\ReturnBooksPage.g.cs
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\Pages\ViewLoanedBooksPage.g.cs
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\Pages\PayFinePage.baml
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\Pages\ReturnBooksPage.baml
+C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\Pages\ViewLoanedBooksPage.baml
