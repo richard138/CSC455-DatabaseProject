@@ -19,10 +19,17 @@ namespace CSC_455_Library_Database_Project
     /// </summary>
     public partial class MainWindow : Window
     {
+        public String userName { get; set; }
         public MainWindow()
         {
             InitializeComponent();
             this.Content = new LoginPage(this);
+            
         }
+        public string getUserName()
+        {
+            return this.userName;
+        }
+
     }
 }

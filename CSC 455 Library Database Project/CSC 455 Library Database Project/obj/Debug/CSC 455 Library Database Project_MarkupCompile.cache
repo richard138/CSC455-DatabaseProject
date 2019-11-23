@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\
+C:\Users\Richard\Source\Repos\CSC455-DatabaseProject\CSC 455 Library Database Project\CSC 455 Library Database Project\obj\Debug\
 CSC_455_Library_Database_Project
 none
 false
 DEBUG;TRACE
-C:\Users\User\source\repos\CSC 455 Library Database Project\CSC 455 Library Database Project\App.xaml
-7366147077
+C:\Users\Richard\Source\Repos\CSC455-DatabaseProject\CSC 455 Library Database Project\CSC 455 Library Database Project\App.xaml
+735017476
 
-111314035304
-131569487696
-Pages\AdminLoginPage.xaml;Pages\LoginPage.xaml;MainWindow.xaml;Pages\PatronPage.xaml;Pages\PayFinePage.xaml;Pages\ReturnBooksPage.xaml;Pages\ViewLoanedBooksPage.xaml;
+12-419809534
+25454518249
+Pages\Admin\AdminLoginPage.xaml;Pages\Patron\LoginPage.xaml;MainWindow.xaml;Pages\Patron\PatronPage.xaml;Pages\Patron\PayFinePage.xaml;Pages\Patron\ReturnBooksPage.xaml;Pages\Patron\ViewLoanedBooksPage.xaml;
 
-True
+False
 

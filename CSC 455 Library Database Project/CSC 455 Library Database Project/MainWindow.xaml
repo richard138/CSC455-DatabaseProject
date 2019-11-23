@@ -6,13 +6,16 @@
         xmlns:local="clr-namespace:CSC_455_Library_Database_Project"
         mc:Ignorable="d"
         Title="MainWindow" Height="463.866" Width="807.563">
-    <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="305*"/>
-            <ColumnDefinition Width="31*"/>
-            <ColumnDefinition Width="29*"/>
-            <ColumnDefinition Width="427*"/>
-        </Grid.ColumnDefinitions>
-
-    </Grid>
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_New" />
+                <MenuItem Header="_Open" />
+                <MenuItem Header="_Save" />
+                <Separator />
+                <MenuItem Header="_Exit" />
+            </MenuItem>
+        </Menu>
+        <TextBox AcceptsReturn="True" />
+    </DockPanel>
 </Window>
